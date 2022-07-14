@@ -36,3 +36,10 @@ python extract.py --dir=demo_videos/
 
 Extracted frames are stored under `extracted_frames/`
 
+
+
+SETUP.PY allow to create a exectutable file (.exe):
+py setup.py py2exe
+
+the command create a dist directory contains execute.exe
+
